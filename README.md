@@ -1,18 +1,17 @@
-# VPN IP Sierra Leone — Dr VPN
+# VPN IP Sierra Leone — Fast, Secure VPN for Sierra Leone
 
-**VPN IP Sierra Leone** is a fast, secure and free VPN for Android. Get a **Sierra Leone IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Sierra Leone** is a free, open-source, ad-free VPN app for Android, built for users in Sierra Leone. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Sierra Leone (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_sl_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-sierra-leone/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Sierra Leone IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Sierra Leone, Sierra Leone VPN, VPN IP Sierra Leone, Sierra Leone IP address, free VPN Sierra Leone, buy VPN Sierra Leone, fast VPN Sierra Leone, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Sierra Leone, free VPN Sierra Leone, fast VPN, VPN IP Sierra Leone, Android VPN, unblock websites Sierra Leone.</sub>
